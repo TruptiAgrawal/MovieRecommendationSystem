@@ -1,0 +1,13 @@
+[project]
+name = "movierecommendationsystem"
+version = "0.1.0"
+description = "A simple ML-based movie recommendation system using Streamlit and TF-IDF cosine similarity."
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "streamlit",
+]
